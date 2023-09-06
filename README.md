@@ -4,7 +4,7 @@ Welcome to the OpenCV Screen Recorder repository! 🚀
 
 This repository hosts an advanced Python-based screen recorder powered by the versatile OpenCV library. Now, you can effortlessly capture and save your screen moments in high quality! 📸
 
-## Demo
+## 🎬 Demo
 
 https://github.com/VikasRana10/Screen-Recorder/assets/90509555/b2dd1304-ea59-429f-a7bc-62f53021b0ed
 
